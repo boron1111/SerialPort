@@ -1,0 +1,1 @@
+This is a java package for serial port commucation and some examples used in MCU commucation with computer
